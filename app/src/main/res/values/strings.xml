@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCanvas</string>
+    <string name="draw">draw</string>
+</resources>
